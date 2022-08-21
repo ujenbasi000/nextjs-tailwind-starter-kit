@@ -3,17 +3,17 @@
 ## Installation
 
 ```bash
-  git clone https://github.com/ujenbasi000/nextjs-tailwind-starter-kit .
+git clone https://github.com/ujenbasi000/nextjs-tailwind-starter-kit .
 ```
 
 ## Configuration
 
 ```bash
-  yarn
+yarn
 ```
 
 ## Starting the project
 
 ```bash
-  yarn start
+yarn start
 ```
